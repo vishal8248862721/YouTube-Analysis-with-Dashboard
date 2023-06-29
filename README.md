@@ -29,3 +29,27 @@ Answering Data Questions using SQL Commands:
 -Utilize SQL commands and queries to analyze and answer questions about the data.
 -Write SQL queries to extract specific information or perform aggregations on the data.
 Retrieve the results of the SQL queries and present the answers to the data questions.
+
+
+Requirments for the project:
+
+1. Create API key and to enable youtube option
+2. Go through the documentation part
+3. Use the syntax for request and response
+
+
+Tools Needed:
+
+1. MongoDB
+2. Postgres SQL
+3. VS Code/pycharm
+4. Streamlit documentation
+
+
+Libraries:
+
+1.Pandas for dataframe
+2.psycopg2 for sql
+3.streamlit for design
+4.googleapiclient
+5.pymongo Mongoclinet
