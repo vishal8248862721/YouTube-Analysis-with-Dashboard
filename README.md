@@ -53,3 +53,7 @@ Libraries:
 3.streamlit for design
 4.googleapiclient
 5.pymongo Mongoclinet
+
+
+API KEY creation link:
+https://console.cloud.google.com/projectselector2/apis/dashboard?pli=1&supportedpurview=project
